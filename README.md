@@ -1,6 +1,8 @@
 # void_world
 空気だけの世界を生成できるテンプレートです。配布マップ作るときに便利かも。自由に改造、使用してOKです！
 
+[ダウンロード](https://github.com/KKaill/void_world/raw/refs/heads/main/void_world.mctemplate)
+
 **25/07/02追記** v1.21.100.23でThe Voidのプリセットが追加されるので、もうすぐ用無しです(╥﹏╥)
 ### 以下デフォでの仕様
 - ワールド名：Void World
